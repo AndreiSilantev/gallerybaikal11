@@ -1,0 +1,45 @@
+h2 {
+    color: black;
+    text-align: center;
+}
+
+.main {
+    background-color: white;
+    height: 500px;
+    
+    
+}
+
+
+
+
+.container1 {
+    background-color: white;
+    height: 230px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+    
+
+}
+
+.container2 {
+    background-color: white;
+    height: 230px;
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 320px;
+    height: 200px;
+    border-radius: 15px;
+    
+    
+    margin-top: 10px;
+}
+
