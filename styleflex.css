@@ -15,7 +15,7 @@ h2 {
 
 .container1 {
     background-color: white;
-    height: 230px;
+    height: 217px;
     
     display: flex;
     flex-direction: row;
@@ -27,7 +27,7 @@ h2 {
 
 .container2 {
     background-color: white;
-    height: 230px;
+    height: 217px;
     
     display: flex;
     flex-direction: row;
@@ -42,4 +42,5 @@ img {
     
     margin-top: 10px;
 }
+
 
